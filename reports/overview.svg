@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="63" fill="#17324d" font-family="Arial,sans-serif" font-size="28px" font-weight="600">MODEL OVERVIEW</text>
+<text x="58" y="100" fill="#3478b8" font-family="Arial,sans-serif" font-size="14px" font-weight="600">MEAN FORWARD RETURN BY SCORE QUANTILE</text>
+<line x1="55" y1="125" x2="1140" y2="125" stroke="#dce3ea" stroke-width="2"/>
+<text x="58" y="154" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">IC 0.965 ICIR 75.586 POS IC 1.00 TOP BOT 2.784%</text>
+<line x1="130" y1="555" x2="1090" y2="555" stroke="#dce3ea" stroke-width="1"/>
+<text x="58" y="554" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">-1.7%</text>
+<line x1="130" y1="463" x2="1090" y2="463" stroke="#dce3ea" stroke-width="1"/>
+<text x="58" y="462" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">-0.8%</text>
+<line x1="130" y1="372" x2="1090" y2="372" stroke="#dce3ea" stroke-width="1"/>
+<text x="58" y="371" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">0.1%</text>
+<line x1="130" y1="281" x2="1090" y2="281" stroke="#dce3ea" stroke-width="1"/>
+<text x="58" y="280" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">1.0%</text>
+<line x1="130" y1="190" x2="1090" y2="190" stroke="#dce3ea" stroke-width="1"/>
+<text x="58" y="189" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">1.9%</text>
+<line x1="130" y1="386" x2="1090" y2="386" stroke="#17324d" stroke-width="2"/>
+<rect x="176" y="386" width="99" height="128" fill="#3478b8"/>
+<text x="213" y="587" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">Q1</text>
+<rect x="368" y="386" width="99" height="58" fill="#3478b8"/>
+<text x="405" y="587" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">Q2</text>
+<rect x="560" y="355" width="99" height="31" fill="#3478b8"/>
+<text x="597" y="587" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">Q3</text>
+<rect x="752" y="277" width="99" height="109" fill="#3478b8"/>
+<text x="789" y="587" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">Q4</text>
+<rect x="944" y="230" width="99" height="156" fill="#25a18e"/>
+<text x="981" y="587" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">Q5</text>
+<text x="430" y="629" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">LOW SCORE TO HIGH SCORE</text>
+</svg>

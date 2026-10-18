@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="100%" height="100%" fill="white"/>
+<text x="55" y="63" fill="#17324d" font-family="Arial,sans-serif" font-size="28px" font-weight="600">RANK IC WORKFLOW</text>
+<text x="58" y="100" fill="#3478b8" font-family="Arial,sans-serif" font-size="14px" font-weight="600">SPEARMAN SCORE-RETURN CORRELATION BY DATE</text>
+<line x1="55" y1="125" x2="1140" y2="125" stroke="#dce3ea" stroke-width="2"/>
+<text x="58" y="154" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">MEAN IC 0.965 ICIR 75.586 POSITIVE DATES 1.00</text>
+<line x1="130" y1="550" x2="1090" y2="550" stroke="#dce3ea" stroke-width="1"/>
+<text x="62" y="550" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">-1.0</text>
+<line x1="130" y1="460" x2="1090" y2="460" stroke="#dce3ea" stroke-width="1"/>
+<text x="62" y="460" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">-0.5</text>
+<line x1="130" y1="370" x2="1090" y2="370" stroke="#dce3ea" stroke-width="1"/>
+<text x="62" y="370" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">0.0</text>
+<line x1="130" y1="280" x2="1090" y2="280" stroke="#dce3ea" stroke-width="1"/>
+<text x="62" y="280" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">0.5</text>
+<line x1="130" y1="190" x2="1090" y2="190" stroke="#dce3ea" stroke-width="1"/>
+<text x="62" y="190" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">1.0</text>
+<line x1="130" y1="370" x2="1090" y2="370" stroke="#17324d" stroke-width="2"/>
+<text x="113" y="575" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">01-01</text>
+<text x="433" y="575" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">04-01</text>
+<text x="753" y="575" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">07-01</text>
+<text x="1073" y="575" fill="#617487" font-family="Arial,sans-serif" font-size="7px" font-weight="600">10-01</text>
+<line x1="130" y1="198" x2="450" y2="197" stroke="#25a18e" stroke-width="4"/>
+<line x1="450" y1="197" x2="770" y2="195" stroke="#25a18e" stroke-width="4"/>
+<line x1="770" y1="195" x2="1090" y2="193" stroke="#25a18e" stroke-width="4"/>
+<circle cx="130" cy="198" r="7" fill="#e58b32"/>
+<circle cx="450" cy="197" r="7" fill="#e58b32"/>
+<circle cx="770" cy="195" r="7" fill="#e58b32"/>
+<circle cx="1090" cy="193" r="7" fill="#e58b32"/>
+<text x="475" y="629" fill="#17324d" font-family="Arial,sans-serif" font-size="14px" font-weight="600">DATE ORDER</text>
+</svg>

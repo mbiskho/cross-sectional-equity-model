@@ -1,0 +1,101 @@
+{
+  "date_results": [
+    {
+      "date": "2025-01-01",
+      "quantile_returns": [
+        -0.010724333333333334,
+        -0.0057915,
+        0.001935,
+        0.012816000000000001,
+        0.013590499999999998
+      ],
+      "rank_ic": 0.951048951048951,
+      "top_minus_bottom_return": 0.024314833333333334
+    },
+    {
+      "date": "2025-04-01",
+      "quantile_returns": [
+        -0.012869333333333335,
+        -0.0040345,
+        0.003408333333333334,
+        0.009319000000000001,
+        0.0168935
+      ],
+      "rank_ic": 0.958041958041958,
+      "top_minus_bottom_return": 0.029762833333333336
+    },
+    {
+      "date": "2025-07-01",
+      "quantile_returns": [
+        -0.013725333333333332,
+        -0.0072250000000000005,
+        0.004455,
+        0.009534500000000001,
+        0.015685499999999998
+      ],
+      "rank_ic": 0.972027972027972,
+      "top_minus_bottom_return": 0.02941083333333333
+    },
+    {
+      "date": "2025-10-01",
+      "quantile_returns": [
+        -0.012874666666666666,
+        -0.0056245,
+        0.002206333333333333,
+        0.010999499999999999,
+        0.0150105
+      ],
+      "rank_ic": 0.9790209790209791,
+      "top_minus_bottom_return": 0.027885166666666666
+    }
+  ],
+  "dates": 4,
+  "mean_forward_return_by_quantile": [
+    -0.012548416666666666,
+    -0.005668875,
+    0.0030011666666666667,
+    0.01066725,
+    0.015295
+  ],
+  "mean_rank_ic": 0.965034965034965,
+  "mean_top_minus_bottom_return": 0.027843416666666666,
+  "observations": 48,
+  "positive_rank_ic_date_fraction": 1.0,
+  "quantile_summary": {
+    "1": {
+      "dates_with_observations": 4,
+      "mean_forward_return": -0.012548416666666666,
+      "positive_date_fraction": 0.0,
+      "sample_std_of_date_returns": 0.0012808642156329013
+    },
+    "2": {
+      "dates_with_observations": 4,
+      "mean_forward_return": -0.005668875,
+      "positive_date_fraction": 0.0,
+      "sample_std_of_date_returns": 0.0013050814390297644
+    },
+    "3": {
+      "dates_with_observations": 4,
+      "mean_forward_return": 0.0030011666666666667,
+      "positive_date_fraction": 1.0,
+      "sample_std_of_date_returns": 0.0011615919312800062
+    },
+    "4": {
+      "dates_with_observations": 4,
+      "mean_forward_return": 0.01066725,
+      "positive_date_fraction": 1.0,
+      "sample_std_of_date_returns": 0.001615386150945546
+    },
+    "5": {
+      "dates_with_observations": 4,
+      "mean_forward_return": 0.015295,
+      "positive_date_fraction": 1.0,
+      "sample_std_of_date_returns": 0.001377673522041174
+    }
+  },
+  "quantiles": 5,
+  "rank_ic_information_ratio": 75.58571293571285,
+  "rank_ic_sample_std": 0.012767425582871018,
+  "top_minus_bottom_positive_date_fraction": 1.0,
+  "top_minus_bottom_sample_std": 0.002489551415416038
+}
